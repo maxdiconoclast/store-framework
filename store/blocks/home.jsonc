@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "rich-text": {
@@ -80,5 +81,4 @@
     "maxWidth": "100%"
   }
 }
-
 }
