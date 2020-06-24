@@ -30,13 +30,7 @@
 }
 
 .infoCardContainer--vintage {
-    background-color: #EDCFD1;
-}
-
-.infoCardContainer--vintage :global(.vtex-button):hover{
-    color: gray;
-    background-color: white;
-    border: transparent;
+    background-color: #edcfd1;
 }
 
 .infoCardImage {
