@@ -33,6 +33,12 @@
     padding: 0px;
 }
 
+.infoCardContainer {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
 .infoCardImage {
     background-color: white;
     margin: 0 auto;
