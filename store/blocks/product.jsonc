@@ -87,7 +87,6 @@
 
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": false,
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
       "initialSelection": "empty"
