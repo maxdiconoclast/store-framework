@@ -89,7 +89,8 @@
     "props": {
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
-      "initialSelection": "empty"
+      "initialSelection": "empty",
+      "showValueForVariation":"image"
     }
   },
   "product-quantity": {
