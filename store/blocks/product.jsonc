@@ -63,23 +63,13 @@
 
   "flex-layout.row#qty-sku": {
     "children": [
-      "flex-layout.col#qty-skuleft",
-      "flex-layout.col#qty-skuright"
+      "sku-selector",
+      "product-quantity"
       
     ]
   },
 
-  "flex-layout.col#qty-skuleft": {
-    "children": [
-      "sku-selector"
-    ]
-  },
-
-  "flex-layout.col#qty-skuright": {
-    "children": [
-      "product-quantity"
-    ]
-  },
+ 
 
   "sku-selector": {
     "props": {
